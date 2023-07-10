@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KabuTalk", "KabuTalk.csproj", "{49180B96-C19F-4C0F-8A78-08D8B890456A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49180B96-C19F-4C0F-8A78-08D8B890456A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49180B96-C19F-4C0F-8A78-08D8B890456A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49180B96-C19F-4C0F-8A78-08D8B890456A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49180B96-C19F-4C0F-8A78-08D8B890456A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2182BB-2FA2-4DA4-B404-29759DE66535}
+	EndGlobalSection
+EndGlobal
